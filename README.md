@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://files.catbox.moe/als1v7.png" alt="ille.gal">
-  <h1>ppid-spoof</h1>
+  <h1>ntapi-injection</h1>
   <p>📜 A program that injects shellcode via the NTAPI.</p>
   <p>Written by bl1ngbl1ng & acro</p>
 </div>
